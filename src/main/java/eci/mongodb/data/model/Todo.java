@@ -1,21 +1,15 @@
-package eci.cosw.data.model;
+package eci.mongodb.data.model;
 
 import java.util.Date;
 
 public class Todo {
 
     private String description;
-
     private int priority;
-
     private Date dueDate;
-
     private User responsible;
-
     private String status;
-
     private String fileUrl;
-
 
     public Todo() {
     }

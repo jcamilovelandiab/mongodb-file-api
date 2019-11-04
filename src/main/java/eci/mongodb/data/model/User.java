@@ -1,4 +1,4 @@
-package eci.cosw.data.model;
+package eci.mongodb.data.model;
 
 public class User {
 
